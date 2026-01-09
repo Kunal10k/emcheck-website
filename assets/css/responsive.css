@@ -1,0 +1,162 @@
+@media only screen and (max-width: 1024px) {
+    #primary li {
+        margin: 0;
+        position: relative;
+    }
+
+    .stats-title {
+        font-size: 159px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .navbar-nav {
+        gap: 17px;
+    }
+}
+
+
+@media only screen and (max-width: 767.68px) {
+    .title {
+        font-size: 25px;
+        line-height: 31px;
+    }
+
+    .inner_title {
+        font-size: 33px;
+    }
+
+    .inner_sections {
+        padding: 80px 0;
+
+    }
+
+    .our_product .title {
+        margin-top: 2rem;
+    }
+
+    .heading {
+        font-size: 20px !important;
+    }
+
+
+    .h-para {
+        width: 100% !important;
+    }
+
+    .ban-sec {
+        min-height: 450px !important;
+        background: url('./assets/img/b2.jpg') center/cover no-repeat;
+    }
+
+    .cta {
+        text-align: center;
+    }
+
+    .partners-section {
+        margin-top: 0;
+    }
+
+    .footer {
+
+        padding: 0;
+    }
+
+    .about-content_box {
+        margin-top: 1rem;
+    }
+
+    .stats-title {
+        font-size: 150px;
+
+    }
+}
+
+@media only screen and (max-width: 475px) {
+
+    .stat-card h3 {
+        font-size: 39px;
+    }
+
+    footer {
+        padding: 0;
+    
+    }
+
+    .stat-card p {
+        font-size: 20px;
+
+    }
+
+    .social-sidebar {
+        display: none;
+    }
+
+    .heading {
+        width: 100% !important;
+        font-size: 20px !important;
+
+    }
+
+    .md-card {
+        padding: 0;
+
+    }
+
+    .md-desk-section .title {
+        margin-top: 23px;
+    }
+
+    .md-quote {
+        padding: 6px;
+
+    }
+
+    .stats-title {
+        font-size: 62px;
+    }
+
+    .stats-wrapper {
+        grid-template-columns: repeat(2, 1fr);
+
+    }
+
+    .footer {
+        padding: var(--global_padding);
+    }
+
+    .mv-box {
+        padding: 10px;
+    }
+
+    .mv-content h3 {
+        margin-top: 17px;
+    }
+
+    .section-title h2 {
+        font-size: 22px;
+        padding: 5px 0;
+    }
+
+    .about-three-image_box .about-img_one {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .about-three-image_box .about-img_two {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .about-three-image_box .experience-box {
+        top: 29%;
+        left: 65%;
+    }
+
+    .testimonial-item .content {
+        gap: 7px;
+
+    }
+}

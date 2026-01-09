@@ -11,7 +11,7 @@
       <!-- Slide 1 -->
       <div class="carousel-item active">
         <div class="ban-sec d-flex align-items-center"
-          style="min-height: 100vh; background: url('./assets/img/hero_three-slider-1.jpg') center/cover no-repeat;">
+          style=" background: url('./assets/img/b1.jpg') center/cover no-repeat;">
           <div class="container text-center text-white">
             <h1 class="heading wow fadeInUp" data-wow-delay="0.2s">Pure Goodness for Your Family Kitchen
             </h1>
@@ -39,7 +39,7 @@
       <!-- Slide 2 -->
       <div class="carousel-item">
         <div class="ban-sec d-flex align-items-center"
-          style="min-height: 100vh; background: url('./assets/img/banner.jpg') center/cover no-repeat;">
+          style=" background: url('./assets/img/b2.jpg') center/cover no-repeat;">
           <div class="container text-center text-white">
             <h1 class="heading wow fadeInUp" data-wow-delay="0.2s">Bringing Authentic Flavors to Your Table
             </h1>
@@ -341,7 +341,7 @@
       <i class="fa-solid fa-wheat-awn right-wheat "></i>
     </div>
     <!-- <h5 class="sub-txt">Healthy Foods</h5> -->
-    <h2 class="title text-container text-white">The Finest Selection For Your
+    <h2 class="title text-container ">The Finest Selection For Your
       <br> Healthy Kitchen</h2>
 
     <!-- Product Cards Carousel -->
@@ -400,6 +400,26 @@
           </div>
         </div>
       </div>
+      <div class="items">
+        <div class="single-service-item-two text-center">
+          <div class="img-holder">
+            <img src="assets/img/product/imagedd.jpg" alt="">
+
+          </div>
+          <div class="text">
+            <h3 class="title">
+              <a href="service-details.php">Mustard Oil
+              </a>
+            </h3>
+            <p>
+              Our Mustard Oil isn’t just a cooking medium—it’s a revival of tradition. Extracted from the first press of
+              high-grade seeds.
+
+            </p>
+            <a href="service-details.php" class="main-btn btn-yellow">Read More</a>
+          </div>
+        </div>
+      </div>
 
     </div>
   </div>
@@ -417,7 +437,7 @@
 
         <i class="fa-solid fa-wheat-awn right-wheat "></i>
       </div>
-      <h4 class="text-center title text-white">We Have More Than 1235+ Global Partners</h4>
+      <h4 class="text-center title ">We Have More Than 1235+ Global Partners</h4>
 
       <div class="owl-carousel partners-carousel mt-04">
         <div class="partner-logo"><img src="assets/img/img-1.png" alt="Partner 1"></div>
@@ -481,108 +501,10 @@
 <!-- project gallery End-->
 
 
-<!-- testimonial start -->
-
-<section class="testimonial-section">
-  <div class="container">
-
-    <div class="row">
-      <div class="col-md-6">
-        <div class="section-subtitle start">
-          <i class="fa-solid fa-wheat-awn  "></i>
-
-          <span class="text text-gr ">TESTIMONIALS
-          </span>
-
-        </div>
-        <h2 class="title text-container">Voices of Trust from Our <br> Happy Families
-        </h2>
-      </div>
-      <div class="col-md-6">
-        <p class="para">Read what our customers say about the purity and quality of our products in their kitchens</p>
-      </div>
-    </div>
-
-    <div class="mt-04">
-
-      <!-- AVATAR CAROUSEL -->
-      <div class="owl-carousel avatar-carousel">
-        <div class="avatar-item"><img src="assets/img/img-6.jpg"></div>
-        <div class="avatar-item"><img src="assets/img/img-8.jpg"></div>
-        <div class="avatar-item"><img src="assets/img/img-6.jpg"></div>
-        <div class="avatar-item"><img src="assets/img/img-8.jpg"></div>
-        <div class="avatar-item"><img src="assets/img/img-6.jpg"></div>
-      </div>
-
-      <hr class="divider">
-
-      <!-- TESTIMONIAL CAROUSEL -->
-      <div class="owl-carousel testimonial-carousel">
-
-        <div class="testimonial-item">
-          <div class="content">
-            <img src="assets/img/img-6.jpg" class="author-img">
-            <div class="text">
-              <p>
-                The aroma of the mustard oil takes me back to my childhood, and I can really tell the
-                difference in purity compared to other brands.
-              </p>
-              <div class="author">
-                <span class="quote">“</span>
-                <div>
-                  <h4>Anjali Sharma</h4>
-                  <span>Homemaker</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial-item">
-          <div class="content">
-            <img src="assets/img/img-8.jpg" class="author-img">
-            <div class="text">
-              <p>
-                Since switching to these oils for our daily cooking, we feel much lighter and the food
-                tastes significantly more authentic.
-              </p>
-              <div class="author">
-                <span class="quote">“</span>
-                <div>
-                  <h4>Rajesh Kumar</h4>
-                  <span>Working Professional</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial-item">
-          <div class="content">
-            <img src="assets/img/img-6.jpg" class="author-img">
-            <div class="text">
-              <p>
-                Finding a brand that prioritizes health without compromising on the traditional taste
-                of our meals has been a blessing for my family.
-              </p>
-              <div class="author">
-                <span class="quote">“</span>
-                <div>
-                  <h4>Suman Verma</h4>
-                  <span>Nutrition-Conscious Parent</span>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
 
 
-      </div>
-    </div>
-  </div>
-</section>
 
-<!-- testimonial End -->
+
 
 
 

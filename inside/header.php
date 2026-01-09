@@ -29,6 +29,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <!-- GLightbox CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css" />
+    <link rel="stylesheet" href="assets/css/responsive.css" />
 
     <link rel="stylesheet" href="assets/js/main.js">
 
@@ -42,7 +43,7 @@
 
             <nav class="navbar navbar-expand-lg navbar-light d-none d-lg-block">
                 <div class="container px-0">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
 
                         <div class="logo">
                             <img src="assets/img/emcheck logo.png" alt="">
@@ -106,9 +107,9 @@
 
             <nav class="navbar navbar-light  d-lg-none">
                 <div class="container">
-                    <a class="navbar-brand" href="index.html">
+                    <a class="navbar-brand" href="index.php">
                         <div class="logo">
-                            <img src="assets/img/HV-logo-YW.avif" alt="">
+                            <img src="assets/img/emcheck logo.png" alt="">
                         </div>
                     </a>
 
@@ -122,7 +123,8 @@
                             <div class="offcanvas-title" id="offcanvasNavbarLabel">
                                 <a class="" href="#">
                                     <div class="logo">
-                                        <img src="assets/img/logo-1-1.png" alt="">
+                                        <img src="assets/img/emcheck logo.png" alt="">
+
 
                                     </div>
                                 </a>

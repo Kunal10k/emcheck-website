@@ -1,8 +1,7 @@
 <?php include 'inside/header.php' ?>
 
 
-<section class="inner_sections"
-    style="background-image: url('https://thememxpro.com/php-template/orgarium/assets/images/bg/page-bg-1.jpg');">
+<section class="inner_sections" style="background-image: url('./assets/img/business-woman-working_1303-3860.jpg');">
     <div class=" container">
         <h1 class="inner_title">Contact Us</h1>
 
@@ -23,9 +22,7 @@
                 </span>
 
                 <h2 class="title">
-                    We’re Ready to Help You! <br>
-                    Need Any Foods or <br>
-                    Consultations?
+                    Do You Have Questions <br> About Our Products or <br>Partnerships?
                 </h2>
 
                 <div class="row mt-4 g-3">
@@ -77,9 +74,8 @@
         <div class="row ">
             <div class="col-md-6">
                 <div class="map-box">
-                    <iframe src="https://www.google.com/maps?q=kolkata,india&output=embed" 
-                        style=" border:0;" allowfullscreen="" loading="lazy"
-                        referrerpolicy="no-referrer-when-downgrade">
+                    <iframe src="https://www.google.com/maps?q=kolkata,india&output=embed" style=" border:0;"
+                        allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade">
                     </iframe>
                 </div>
             </div>
@@ -92,7 +88,7 @@
                         <i class="fa-solid fa-paper-plane"></i> Get In Touch
                     </span>
 
-                    <h2 class="title mb-4">Need Organic Foods! <br> Send Us Message</h2>
+                    <h2 class="title mb-4">We’re Ready to <br> Help You!</h2>
 
                     <form class="contact-form">
                         <input type="text" class="form-control" placeholder="Full Name">

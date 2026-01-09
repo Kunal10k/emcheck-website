@@ -1,8 +1,7 @@
 <?php include 'inside/header.php' ?>
 
 
-<section class="inner_sections"
-    style="background-image: url('https://thememxpro.com/php-template/orgarium/assets/images/bg/page-bg-1.jpg');">
+<section class="inner_sections" style="background-image: url('./assets/img/product/carrer.jpg');">
     <div class=" container">
         <h1 class="inner_title">Carrer</h1>
 
@@ -14,39 +13,48 @@
 <section class="py-5">
     <div class="container">
         <div class="row text-center mb-4">
-            <h2 class="section-title">Why Work With Us?</h2>
+            <div class="section-subtitle  ">
+                <i class="fa-solid fa-wheat-awn  "></i>
+
+                <span class="text text-gr ">Our Progress
+                </span>
+
+            </div>
+            <h2 class="title">Why Work With Us?</h2>
             <p class="section-subtitle">
-                We believe happy employees create outstanding results.
+                We aren't just selling oil; we are building a legacy of health. At our core, we are a team of innovators
+                and traditionalists working together to bring unadulterated nutrition to every kitchen. If you are tired
+                of corporate red tape and want to work where your ideas actually turn into products, this is your place.
             </p>
         </div>
 
         <div class="row">
             <div class="col-md-4 text-center mb-4">
                 <div class="career-box">
-                    <h4>Positive Work Culture</h4>
+                    <h4>Culture of Ownership</h4>
                     <p>
-                        Friendly environment where teamwork, respect,
-                        and creativity are valued every day.
+                        We don't micro-manage. You get the freedom to own your projects and the resources to execute
+                        them flawlessly.
                     </p>
                 </div>
             </div>
 
             <div class="col-md-4 text-center mb-4">
                 <div class="career-box">
-                    <h4>Career Growth</h4>
+                    <h4>Accelerated Learning</h4>
                     <p>
-                        Learn, grow, and advance with continuous
-                        training and new opportunities.
+                        Get hands-on experience with the latest extraction technology and modern supply chain management
+                        from day one.
                     </p>
                 </div>
             </div>
 
             <div class="col-md-4 text-center mb-4">
                 <div class="career-box">
-                    <h4>Work–Life Balance</h4>
+                    <h4>Wellness First</h4>
                     <p>
-                        We support a healthy balance so you
-                        stay motivated and productive.
+                        We treat our staff like family, offering comprehensive health benefits and a schedule that
+                        respects your life outside of work.
                     </p>
                 </div>
             </div>
@@ -58,9 +66,9 @@
     <div class="container">
 
         <div class="row text-center mb-5">
-            <h2 class="section-title">Current Openings</h2>
+            <h2 class="title">Current Openings</h2>
             <p class="section-subtitle">
-                Find the role that matches your passion and skills
+                We Are Hiring
             </p>
         </div>
 
@@ -69,20 +77,39 @@
             <div class="col-md-6 mb-4">
                 <div class="job-card">
                     <h4>Sales Executive</h4>
-                    <p>Location: Kolkata</p>
-                    <p>Experience: 1–3 Years</p>
-                    <a href="#apply" class="btn btn-outline-primary">Apply Now</a>
+                    <p><strong>Location:</strong> Kolkata</p>
+                    <p><strong>Experience:</strong> 1–3 Years</p>
+                    <p class="job-desc">
+                        You’ll be on the front lines, expanding our retail footprint and ensuring our products are
+                        available on every key shelf across the city.
+                    </p>
+                    <div class="btn-groups mt-3">
+                        <a href="about.html" class="animated-button">
+                            <span class="text">Apply Now</span>
+                            <span class="circle"></span>
+                        </a>
+                    </div>
                 </div>
             </div>
 
             <div class="col-md-6 mb-4">
                 <div class="job-card">
                     <h4>Marketing Manager</h4>
-                    <p>Location: PAN India</p>
-                    <p>Experience: 3–5 Years</p>
-                    <a href="#apply" class="btn btn-outline-primary">Apply Now</a>
+                    <p><strong>Location:</strong> PAN India</p>
+                    <p><strong>Experience:</strong> 3–5 Years</p>
+                    <p class="job-desc">
+                        We’re looking for a strategist to craft our brand story and manage large-scale digital campaigns
+                        that resonate with health-conscious families nationwide.
+                    </p>
+                    <div class="btn-groups mt-3">
+                        <a href="about.html" class="animated-button">
+                            <span class="text">Apply Now</span>
+                            <span class="circle"></span>
+                        </a>
+                    </div>
                 </div>
             </div>
+
 
         </div>
     </div>
@@ -119,9 +146,16 @@
                         </div>
                     </div>
 
-                    <button class="btn btn-primary w-100 mt-3">
-                        Submit Application
-                    </button>
+
+
+                    <div class="btn-groups mt-3   ">
+                        <a href="about.html" class="animated-button">
+                            <span class="text"> Submit Application</span>
+                            <span class="circle"></span>
+                        </a>
+
+
+                    </div>
                 </form>
             </div>
         </div>

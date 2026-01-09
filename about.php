@@ -1,7 +1,6 @@
 <?php include 'inside/header.php' ?>
 
-<section class="inner_sections"
-  style="background-image: url('https://thememxpro.com/php-template/orgarium/assets/images/bg/page-bg-1.jpg');">
+<section class="inner_sections" style="background-image: url('./assets/img/abt.jpeg');">
   <div class=" container">
     <h1 class="inner_title">About</h1>
 
@@ -14,27 +13,30 @@
     <div class="row align-items-center">
 
       <!-- LEFT CONTENT -->
-      <div class="col-lg-6 mb-5 mb-lg-0">
+      <div class="col-lg-8 mb-5 mb-lg-0">
         <div class="about-tag">
           <i class="fa-solid fa-seedling"></i> About Us
         </div>
 
         <h2 class="title">
-          We’re Best Agriculture & Organic Firms
+          Setting the New Standard of Excellence
         </h2>
 
         <p class="para">
-          Natus error sit voluptatem accusantium doloremque laudantium,
-          totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-          et quasi architecto beatae vitae dicta sunt.
+          Most oils are stripped of their essence before they reach your kitchen. We took a different path. By
+          hand-selecting seeds directly from sustainable farms, we ensure every drop carries the weight of authentic
+          tradition. We don’t hide behind industrial shortcuts or synthetic additives. Instead, we use precision methods
+          to extract oil that is as clean as it is flavourful. This isn’t just about cooking. It is about providing a
+          superior foundation for your health and your home. You deserve better than mass-produced fillers and mystery
+          ingredients.
         </p>
 
         <div class="about-list mt-3">
           <i class="fa-solid fa-circle-check"></i>
           <div>
-            <h6>100% Natural Foods</h6>
+            <h6>Direct Farm Sourcing</h6>
             <p class="about-text mb-0">
-              Accusantium doloremque laudantium, totam rem aperiam inventore.
+              We pick the seeds at the source to guarantee freshness in every single batch.
             </p>
           </div>
         </div>
@@ -42,9 +44,9 @@
         <div class="about-list">
           <i class="fa-solid fa-circle-check"></i>
           <div>
-            <h6>Modern Equipments</h6>
+            <h6>Raw Nutrient Retention</h6>
             <p class="about-text mb-0">
-              Accusantium doloremque laudantium, totam rem aperiam inventore.
+              Our cold-press technology keeps the vitamins in the oil rather than burning them off.
             </p>
           </div>
         </div>
@@ -53,9 +55,9 @@
       </div>
 
       <!-- RIGHT IMAGES -->
-      <div class="col-lg-6">
+      <div class="col-lg-4">
         <div class="about-images">
-          <img src="assets/img/about.png" alt="Farmer" class="about-img-top img-fluid">
+          <img src="assets/img/Emcheckimag.jpeg" alt="Farmer" class="about-img-top img-fluid">
 
         </div>
       </div>
@@ -71,7 +73,7 @@
     <!-- Heading -->
     <div class="text-center mb-5">
       <h2 class="title">Mission & Vision</h2>
-      <p class="text-muted">Our purpose and future direction</p>
+      <p class="text-muted">Pioneering a healthier world through conscious agriculture and transparent production</p>
     </div>
 
     <!-- Tabs -->
@@ -95,22 +97,20 @@
       <div class="tab-pane fade show active" id="mission">
         <div class="row align-items-center mv-box">
           <div class="col-md-6">
-            <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d" class="img-fluid mv-image"
-              alt="Mission">
+            <img src="assets/img/peasant-with-tractor-working-cornfield-crop_181624-58745.jpg"
+              class="img-fluid mv-image" alt="Mission">
           </div>
           <div class="col-md-6">
             <div class="mv-content">
               <h3>Our Mission</h3>
               <p>
-                Our mission is to deliver innovative and high-quality solutions
-                that empower people, create opportunities, and drive sustainable
-                success through excellence and trust.
+                Pioneering a healthier world through conscious agriculture and transparent production
               </p>
               <ul class="mt-3">
 
-                <li>Quality-driven approach</li>
-                <li>Customer-first mindset</li>
-                <li>Continuous innovation</li>
+                <li>Ethical Sourcing</li>
+                <li>Uncompromised Quality</li>
+                <li>Sustainable Practices</li>
               </ul>
             </div>
           </div>
@@ -121,16 +121,14 @@
       <div class="tab-pane fade" id="vision">
         <div class="row align-items-center mv-box">
           <div class="col-md-6">
-            <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d" class="img-fluid mv-image"
-              alt="Vision">
+            <img src="assets/img/plant-care-fertilize-trees_36386-95.avif" class="img-fluid mv-image" alt="Vision">
           </div>
           <div class="col-md-6">
             <div class="mv-content">
               <h3>Our Vision</h3>
               <p>
-                Our vision is to become a globally respected organization by
-                inspiring innovation, embracing technology, and building
-                long-term value for society and future generations.
+                To lead a global movement where food integrity is the standard and traditional farming wisdom is
+                preserved for the next generation.
               </p>
               <ul class="mt-3">
                 <li>Global impact</li>
@@ -152,7 +150,7 @@
 
 <section class="md-desk-section ">
   <div class="container">
-    <div class="row align-items-center md-card">
+    <div class="row  md-card">
 
       <!-- Image Column -->
       <div class="col-lg-4 text-center position-relative">
@@ -170,23 +168,34 @@
       <div class="col-lg-8">
         <h2 class="title">From the MD’s Desk</h2>
 
-        <p class="md-text">
-          At Ensurg, we believe innovation and commitment are the foundation of sustainable growth.
-          Our journey from a startup to a diversified healthcare organization reflects the trust
-          placed in us by our stakeholders.
-        </p>
+        <p>Reiterate the company's commitment: YOU ENSURE IT.
+          Express optimism for the future: "We are excited about the opportunities that lie ahead and look forward to
+          consistent success."<br>
+          Thank the audience for their attention: "Thank you for your time and attention. We are open for questions."
+          We at “Emsurg” believe, never die before the death and IF YOU TRY, YOU RISK FAILURE. IF YOU DON'T, YOU ENSURE
+          IT. <br><br>
 
-        <ul class="md-points">
-          <li>✔ Commitment to quality & innovation</li>
-          <li>✔ Consistent growth & future readiness</li>
-          <li>✔ Focus on people, technology & trust</li>
-        </ul>
+          That's the way we grew from Zero to 360 million INR company with diversified interests in Nephro-care,
+          Biologics, Wound Care, Orthopaedics, Industrial Microbiology & Innovation through our state-of-the-art R&D
+          facility headed by Our Ace Team. <br><br>
+
+
+      </div>
+
+      <div class="col-md-12 mt-4">
+        <p> By year 2028, we should be a 1000 million INR company with 300+ employees. We are excited about the
+          opportunities that lie ahead and look forward to continuing success.<br><br>
+
+          We are thankful to our employees, our teachers, and of course our stakeholders who believed in us and even in
+          tough times never left us. We are thankful to our banks and financial institutions who are also our valued
+          stakeholders.</p>
 
         <h5 class="md-name">Mr. Kunal Mukherjee</h5>
         <span class="md-desig">
-          Managing Director & CEO <br>
-          Ensurg Healthcare (India) Pvt. Ltd.
-        </span>
+          Managing Director, CEO <br>Emsurg Healthcare (India) Pvt Ltd.
+
+
+        </span></p>
       </div>
 
     </div>
@@ -195,8 +204,52 @@
 
 
 
+<section class="py-5 board-directors">
+  <div class="container">
+
+    <div class="row text-center mb-5">
+      <h2 class="title">Board of Directors</h2>
+    </div>
+
+    <div class="row align-items-center">
+
+      <!-- Left : Image -->
+      <div class="col-md-5 mb-4 mb-md-0">
+        <div class="director-img">
+          <img src="assets/img/PRIYANKA-ACHARYYA.jpg" alt="Priyanka Acharyya" class="img-fluid rounded">
+        </div>
+      </div>
+
+      <!-- Right : Details -->
+      <div class="col-md-7">
+        <div class="director-details">
+          <h3>Priyanka Acharyya</h3>
+          <h6 class="text-muted mb-3">CFO & Director</h6>
+
+          <p>
+            Priyanka Acharyya plays a key role in driving the company’s
+            financial strategy, governance, and long-term growth.
+            With strong expertise in financial planning and operations,
+            she ensures sustainable and compliant business practices.
+          </p>
+
+          <p>
+            Her leadership contributes significantly to operational
+            excellence and strategic decision-making across the organization.
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+
+
+
 <section class="stats-section">
-  <h1 class="stats-title">Statistics</h1>
+  <h1 class="stats-title">Emcheck</h1>
 
   <div class="stats-wrapper">
     <div class="stat-box">
